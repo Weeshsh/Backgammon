@@ -1,0 +1,6 @@
+marcin   2
+gracz1234   5
+michal  21
+dzien   0
+dobry   2
+test   0
