@@ -1,4 +1,7 @@
-# Backgammon
-Backgammon board game implementation in pure C.
+# Backgammon  
+Implementation of the backgammon board game in pure C.
 
-Project for basics of programming course in university.
+## About  
+📅 **Date:** December 2023  
+📌 **Project Type:** University Assignment  
+🎓 **Course:** Basics of Programming  
